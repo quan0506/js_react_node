@@ -1,6 +1,6 @@
 ### sự kiện (event) là một phần quan trọng, giúp app trở nên tương tác hơn bằng cách cho phép user kích hoạt các action khi tương tác với giao diện. React hỗ trợ event tương tự như HTML, nhưng với các cú pháp và cách sử dụng khác nhau.
 
-* 1. Syntax event trong React, các event thường được viết bằng camelCase (ví dụ: onClick, onChange), khác với HTML là v
+* 1. Syntax event trong React, các event thường được viết bằng camelCase (ví dụ: onClick, onChange), khác với HTML là
 
 Thay vì truyền một chuỗi cho properties event như HTML, truyền func  Js cho thuộc tính sự kiện trong React.
 Ví dụ:
